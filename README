@@ -1,6 +1,8 @@
 STM32CUBEIDE compile it well
 
-To use Cmake:
+If you want to compile with Cmake:
+
+1) if you use 64x architecture do sudo apt-get install gcc-multilib
 
 1) Download crosscompiler https://launchpad.net/gcc-arm-embedded/+download
 
