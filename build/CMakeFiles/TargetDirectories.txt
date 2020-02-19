@@ -1,3 +1,0 @@
-/home/sermountain/src/xlgyro/build/CMakeFiles/rebuild_cache.dir
-/home/sermountain/src/xlgyro/build/CMakeFiles/xlgyro.elf.dir
-/home/sermountain/src/xlgyro/build/CMakeFiles/edit_cache.dir
