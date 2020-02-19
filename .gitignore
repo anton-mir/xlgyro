@@ -7,4 +7,5 @@ gtags_files
 **/cscope*
 tags
 *.swp
-
+.idea
+build
