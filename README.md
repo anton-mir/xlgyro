@@ -43,6 +43,5 @@ If you want to compile xlgyro demo with Cmake:
 5) Compile xlgyro with Cmake:
     ```
     $ cd [xlgyro path]
-    $ mkdir build && cd build && cmake -DCMAKE_TOOLCHAIN_FILE=../toolchain.cmake .. 
-    $ make -j$(nproc)
+    $ ./build.sh
     ```
